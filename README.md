@@ -35,4 +35,4 @@ I built this portfolio to bridge the gap between agriculture and web technology 
 
 **Teemah**  
 Agricultural Tech Enthusiast & Frontend Web Developer  
-Email: teeshub@email.com
+Email: amir.m1700769@st.futminna.eddu.ng
