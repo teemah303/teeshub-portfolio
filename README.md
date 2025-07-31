@@ -43,20 +43,4 @@ A simple, clean portfolio design with a natural, eco-friendly theme inspired by 
 
 ---
 
-## 📥 Setup
-
-1. Clone or download this repository.
-2. Place your images and resume (CV) in the project folder.
-3. Open `index.html` in your browser to view your portfolio.
-
----
-
-## ✅ To-Do
-
-- [ ] Add animations for smooth scrolling.
-- [ ] Improve SEO and accessibility tags.
-- [ ] Add links to social profiles (LinkedIn, GitHub, Twitter).
-
----
-
 💚 Designed and developed with passion for **tech + agriculture**.
